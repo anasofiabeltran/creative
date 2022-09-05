@@ -1,0 +1,161 @@
+#principalPage{
+    position: relative;
+}
+
+#img-principalPage{
+    width: 100vw;
+    height: 100vh;
+}
+
+#singUp{
+    position: absolute;
+    top: 3%;
+    right: 19%;
+    height: 20px;
+    width: 13%;
+    border: none;
+    background-color: transparent;
+    cursor:pointer;
+    background-color: aqua;
+}
+
+#login{
+    position: absolute;
+    top: 3%;
+    right: 5%;
+    height: 20px;
+    width: 13%;
+    border: none;
+    background-color: transparent;
+    cursor:pointer;
+    background-color: rgb(221, 255, 0);
+}
+
+.singUpMenu-button{
+    position: absolute;
+    width: 76%;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    background-color: rgb(250 138 75);
+    height: 30px;
+}
+
+#singUpMenu-Estudent{
+    top: 27%;
+    right: 11%;
+
+}
+
+#singUpMenu-Teacher{
+    top: 36%;
+    right: 11%;
+    
+}
+
+#singUpMenu-Independet{
+    top: 44%;
+    right: 11%;
+
+}
+
+.singUpMenu-cancel{
+    position: absolute;
+    width: 22%;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    background-color: rgb(250 138 75);
+    height: 23px;
+}
+
+#singUpMenu-buttonCancel{
+    top: 50%;
+    right: 38%;
+    
+}
+
+.login-button{
+    position: absolute;
+    width: 110%;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    background-color: rgb(250 138 75);
+    height: 16px;
+}
+
+#login-buttonLogin{
+    top: 1048%;
+    right: 339%;
+}
+
+#login-buttonCancel{
+    top: 1048%;
+    right: 181%;
+}
+
+.button-principalPlataform{
+    position: absolute;
+    width: 30%;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    background-color: rgb(250 138 75);
+    height: 43px;
+}
+
+#createGame{
+    top: 15%;
+    right: 60%;
+}
+
+#seeGrades{
+    top: 27%;
+    right: 7%;  
+}
+
+#play{
+    top: 63%;
+    right: 7%; 
+}
+
+.button-gameOptions{
+    position: absolute;
+    width: 24%;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    background-color: rgb(250 138 75);
+    height: 31px;
+}
+
+#fornite{
+    top: 29%;
+    right: 31%;
+}
+
+#zombie{
+    top: 49%;
+    right: 31%;  
+}
+
+#ruleta{
+    top: 70%;
+    right: 29%; 
+}
+
+.button-gameOptions-cancel{
+    position: absolute;
+    width: 18%;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    background-color: rgb(250 138 75);
+    height: 25px; 
+}
+
+#gameOptions-cancel{
+    top: 79%;
+    right: 38%;
+}
